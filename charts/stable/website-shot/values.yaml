@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/website-shot
-  tag: latest@sha256:d47627330bfcd9549c0b074a440258b39d8a084d6e019a56670e60dd00a7660d
+  tag: latest@sha256:6e6e63fc0a5c4305e598cb993be3840df0ca6c3cdc54323c305467192122a5ff
   pullPolicy: IfNotPresent
 
 service:
